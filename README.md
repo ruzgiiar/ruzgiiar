@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruzgiiar&label=Profile%20views&color=0e75b6&style=flat" alt="ruzgiiar" /> </p>
+
 
 - 🔭 I’m currently working on [Manipulation-Analyz](https://github.com/ruzgiiar/Manipulation-Analyz)
 
