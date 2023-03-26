@@ -31,10 +31,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruzgiiar&show_icons=true&locale=en&layout=compact" alt="ruzgiiar" /></p>
 
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ruzgiiar&show_icons=true&locale=en" alt="ruzgiiar" /></p>
 
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruzgiiar&" alt="ruzgiiar" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ruzgiiar&" alt="ruzgiiar" /></p>
 
----
+
