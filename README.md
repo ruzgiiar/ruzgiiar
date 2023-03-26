@@ -2,9 +2,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="500" src="https://cutewallpaper.org/25/animated-gif-matrix-falling-code-wallpaper/matrix-corridors-gif-download-amp-share-on-phoneky.gif">
-
-
 
 - 🔭 I’m currently working on [Manipulation-Analyz](https://github.com/ruzgiiar/Manipulation-Analyz)
 
@@ -34,5 +31,5 @@
 
 ---
 
-
+![UnderImg](https://repository-images.githubusercontent.com/279995113/37c6ee80-caef-11ea-8dd5-58fe488fddb8)
 
