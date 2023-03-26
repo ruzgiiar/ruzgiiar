@@ -6,11 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Manipulation-Analyz](https://github.com/ruzgiiar/Manipulation-Analyz)
 
-- 🌱 I’m currently learning **ML, AI**
-
-- 📫 How to reach me **ruzgiarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
