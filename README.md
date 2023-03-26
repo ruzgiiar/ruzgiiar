@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="Coding"  src="https://cutewallpaper.org/25/animated-gif-matrix-falling-code-wallpaper/matrix-corridors-gif-download-amp-share-on-phoneky.gif">
+<img align="center" alt="Coding"  src="https://cutewallpaper.org/25/animated-gif-matrix-falling-code-wallpaper/matrix-corridors-gif-download-amp-share-on-phoneky.gif">
 
 
 
