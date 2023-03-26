@@ -24,10 +24,10 @@
 
 
 
-<p>&nbsp;<img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruzgiiar&show_icons=true&locale=en&layout=compact" alt="ruzgiiar" /></p>
+<p><img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruzgiiar&show_icons=true&locale=en&layout=compact" alt="ruzgiiar" /></p>
 
 
-<p>&nbsp;<img align="left" width='400' src="https://github-readme-stats.vercel.app/api?username=ruzgiiar&show_icons=true&locale=en" alt="ruzgiiar" /></p>
+<p>&nbsp;<img align="" width='400' src="https://github-readme-stats.vercel.app/api?username=ruzgiiar&show_icons=true&locale=en" alt="ruzgiiar" /></p>
 
 ---
 
