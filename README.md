@@ -1,9 +1,4 @@
 ![MasterHead](bloggif_64203a88710f1.gif)
-<h1 align="center">Hi 👋, I'm Hüseyin Yiğit</h1>
-
----
-
-<h2 align="center">Open to learning.</h3>
 
 ---
 
