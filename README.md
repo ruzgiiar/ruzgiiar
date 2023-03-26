@@ -1,4 +1,4 @@
-![MasterHead](bloggif_64203a88710f1.gif)
+![MasterHead](https://www.fundingcircle.com/us/resources/wp-content/uploads/2020/03/shutterstock_1461429284.jpg)
 
 ---
 
