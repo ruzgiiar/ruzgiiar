@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/uwp/uwp2403804.gif">
+<img align="right" alt="Coding" width="400" src="giphy.gif">
 
 
 - 🔭 I’m currently working on [Manipulation-Analyz](https://github.com/ruzgiiar/Manipulation-Analyz)
