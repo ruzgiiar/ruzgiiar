@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://www.propatel.com/wp-content/uploads/2019/09/coding-and-testing-programming-of-software.jpg">
+<img align="right" alt="Coding" width="400" src="https://s3.us-east-1.amazonaws.com/asugv5-assets/archive/uploads/images/main/_featureLarge/FF-code-programing-700X467.jpg">
 
 
 - 🔭 I’m currently working on [Manipulation-Analyz](https://github.com/ruzgiiar/Manipulation-Analyz)
