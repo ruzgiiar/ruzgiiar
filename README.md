@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://s3.us-east-1.amazonaws.com/asugv5-assets/archive/uploads/images/main/_featureLarge/FF-code-programing-700X467.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/21/be/95/21be95ef69cc93e60df2d2ce0ae4c91c.jpg">
 
 
 - 🔭 I’m currently working on [Manipulation-Analyz](https://github.com/ruzgiiar/Manipulation-Analyz)
