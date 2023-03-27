@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ff/a2/aa/ffa2aa6e8a492df5e267b52ffbbff74b.gif">
+<img align="right" alt="Coding" width="400" src="https://media.newyorker.com/photos/61f31429b67066a13fd21e66/master/w_1600,c_limit/chayka_dao_1.gif">
 
 
 - 🔭 I’m currently working on [Manipulation-Analyz](https://github.com/ruzgiiar/Manipulation-Analyz)
