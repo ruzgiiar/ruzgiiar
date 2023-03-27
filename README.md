@@ -1,4 +1,4 @@
-![MasterHead](https://www.fundingcircle.com/us/resources/wp-content/uploads/2020/03/shutterstock_1461429284.jpg)
+![MasterHead](https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47xgodcg38s1rf5omwbe103k5xa7lo5sjzclv0m8u4&rid=giphy.gif&ct=g)
 
 ---
 
@@ -33,5 +33,5 @@
 
 ---
 
-![UnderImg](https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47xgodcg38s1rf5omwbe103k5xa7lo5sjzclv0m8u4&rid=giphy.gif&ct=g)
+![UnderImg](https://media3.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=ecf05e47yiv2iblw11hy1r5tntbuog63h7d4d0fj2hkjwnj8&rid=giphy.gif&ct=g)
 
