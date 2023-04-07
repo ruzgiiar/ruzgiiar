@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **ruzgiarr@gmail.com**
 
+- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 
 
 <h3 align="left">Connect with me:</h3>
